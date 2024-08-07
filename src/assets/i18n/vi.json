@@ -1,0 +1,86 @@
+{
+    "beta": {
+      "popup-title": "Vì trang web này đang trong giai đoạn truy cập sớm nên có thể chứa lỗi",
+      "popup-small-title": "Trang web đang trong giai đoạn truy cập sớm",
+      "popup-contact": "Liên hệ"
+    },
+    "contact": {
+      "title": "Liên hệ với tôi",
+      "email": "Email của bạn",
+      "subject": "Chủ đề",
+      "message": "Tin nhắn",
+      "send": "Gửi tin nhắn",
+      "subject-placeholder": "Hãy cho tôi biết cách tôi có thể giúp bạn",
+      "message-placeholder": "Tin nhắn của bạn"
+    },
+    "nav": {
+      "movies": "Phim",
+      "tv": "TV",
+      "discover": {
+        "title": "Khám phá",
+        "movie": {
+          "title": "Khám phá Phim",
+          "desc": "Khám phá các bộ phim."
+        },
+        "tv": {
+          "title": "Khám phá TV",
+          "desc": "Khám phá các chương trình TV."
+        },
+        "popular": {
+          "title": "Phổ biến",
+          "desc": "Các bộ phim và chương trình TV phổ biến."
+        },
+        "trending": {
+          "title": "Xu hướng",
+          "desc": "Các bộ phim và chương trình TV đang thịnh hành."
+        },
+        "favorite": {
+          "title": "Phim / TV yêu thích",
+          "desc": "Các bộ phim và chương trình TV yêu thích của bạn đã được đánh dấu."
+        },
+        "language": {
+          "title": "Thay đổi ngôn ngữ",
+          "desc": "Thay đổi ngôn ngữ trên trang web"
+        }
+      },
+      "contact": "Liên hệ với tôi"
+    },
+    "footer": {
+      "resources": "Tài nguyên",
+      "follow": "Theo dõi tôi"
+    },
+    "trending-title": "Phim đang thịnh hành trong tuần qua",
+    "popular-title": "Phim phổ biến",
+    "discover-movie-title": "Khám phá Phim",
+    "discover-tv-title": "Khám phá TV",
+    "page": "Chọn một trang",
+    "btn_details": "Xem chi tiết",
+    "tv": {
+      "language": "Ngôn ngữ gốc:",
+      "vote": "Số phiếu bầu:"
+    },
+    "details": {
+      "title": "Tiêu đề: ",
+      "status": "Trạng thái: ",
+      "language": "Ngôn ngữ: ",
+      "votes": "Số phiếu: ",
+      "overview": "Tổng quan: ",
+      "release_date": "Ngày phát hành: ",
+      "budget": "Ngân sách: ",
+      "genres": "Thể loại: ",
+      "homepage": "Trang chủ: ",
+      "spoked_languages": "Ngôn ngữ nói: ",
+      "production_companies": "Công ty sản xuất: ",
+      "movie_cast": "Dàn diễn viên: ",
+      "movie_crew": "Đội ngũ sản xuất: ",
+      "reviews": "Đánh giá: ",
+      "recommendations": "Gợi ý: ",
+      "button_opened": "Mở toàn bộ đánh giá",
+      "button_closed": "Đóng đánh giá"
+    },
+    "favorite_title": "Hiện tại, danh sách phim yêu thích đang trống. Bạn có thể thêm vào đây:",
+    "favorite_link": "Liên kết",
+    "btn_watch": "Xem trailer",
+    "stage_loading": "Trang đang tải. Vui lòng chờ đợi."
+  }
+  
